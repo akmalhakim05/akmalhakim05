@@ -8,8 +8,6 @@
 - Firebase, Blynk, MQTT
 
 ### 📌 Featured Projects
-- [Fundizen](https://github.com/akmalhakim05/fundizen) – Charity crowdfunding app (Web + Mobile)
-- [Environmental Monitoring System](https://github.com/akmalhakim05/env-monitor) – IoT with ESP32 + Sensors + Blynk
 
 ### 📊 GitHub Stats
 ![Akmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=akmalhakim05&show_icons=true&theme=radical)
